@@ -11,10 +11,11 @@
 - 📫 How to reach me: ugurcan.ku07@gmail.com
 
 -->
-
-### Sinif Listesi
+### Bilge Adam Boost
+## Degerli Ogretmenlerim ve Sevgili Arkadaslarim
 - Github adi: yigith [Yigit Haciefendioglu](https://github.com/yigith)
 - Github adi: galipyildiz [Galip yildiz](https://github.com/galipyildiz)
+
 - Github adi: Bilgehan Arici [BilgehanArici](https://github.com/BilgehanArici)
 - Github adi: sinaemre [Sina Emre](https://github.com/sinaemre)
 - Github adi: MAliRagipCakir [Muhammet ali Ragip Cakir](https://github.com/MAliRagipCakir)
