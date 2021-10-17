@@ -1,18 +1,19 @@
-### Hi there 👋
+### Hi there, welcome to my firts repository 👋
 
 <!--
 **ukucukali/ukucukali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
-- 🔭 I’m currently working on home
+- 🔭 I’m currently working on to be a good programmer
 - 🌱 I’m currently learning .net
-- 🤔 I’m looking for help with codding experience opportunities
+- 🤔 I’m looking for help with codding experience and good opportunities
 - 📫 How to reach me: ugurcan.ku07@gmail.com
 
 -->
-### Bilge Adam Boost
-## Degerli Ogretmenlerim ve Sevgili Arkadaslarim
+### Bilge Adam Boost Team5
+
+
 - Github adi: yigith [Yigit Haciefendioglu](https://github.com/yigith)
 - Github adi: galipyildiz [Galip yildiz](https://github.com/galipyildiz)
 
