@@ -39,7 +39,7 @@
 ----------------
 
 ![ugurcan's github stats](https://github-readme-stats.vercel.app/api?username=ukucukali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![ugurcan's github foolowers]("https://img.shields.io/github/followers/ukucukali")
+![ugurcan's github foolowers](https://img.shields.io/github/followers/ukucukali)
 
 
 ---------------
