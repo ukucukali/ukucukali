@@ -35,8 +35,10 @@
 -------------------
 
 ![ugurcan's github visitor](https://komarev.com/ghpvc/?username=ukucukali&style=flat-square)
-![ugurcan's github visitor](https://img.shields.io/github/followers/ukucukali)
+![ugurcan's github followers](https://img.shields.io/github/followers/ukucukali)
+------------------
 
+![ugurcan's github stats](https://github-readme-stats.vercel.app/api?username=ukucukalig&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ---------------
 <a  target="_blank"><img height="40" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif">I love connecting with different people</b> so if you want to say hi, I'll be happy to meet you more! :)</a></code>
 
