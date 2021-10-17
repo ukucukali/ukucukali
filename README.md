@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with codding experience and good opportunities
 - 📫 How to reach me: ugurcan.ku07@gmail.com
 - 🌱 I’m currently learning 
-
+<a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 
 ### Bilge Adam Boost Team5
 
