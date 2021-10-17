@@ -1,6 +1,6 @@
 ### Hi there, welcome to my firts repository 👋
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center"><img src=https://th.bing.com/th/id/R.5985a08efc799b0e3e6fb2318c7d9145?rik=vMIlVXsfhx8BBw&riu=http%3a%2f%2frhinoos.xyz%2fwp-content%2fuploads%2f2016%2f11%2fpost2.gif&ehk=V7to3NYlBezEhlT3yoP%2f4P6A5OApOCnMSHs2gfizW%2f8%3d&risl=&pid=ImgRaw&r=0/></p>
 
 
 - 🔭 I’m currently working on to be a good programmer
