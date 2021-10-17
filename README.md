@@ -1,17 +1,12 @@
 ### Hi there, welcome to my firts repository 👋
 
-<!--
-**ukucukali/ukucukali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## - 🔭 I’m currently working on to be a good programmer
+## - 🌱 I’m currently learning .net--> C#
+## - 🤔 I’m looking for help with codding experience and good opportunities
+## - 📫 How to reach me: ugurcan.ku07@gmail.com
 
-
-- 🔭 I’m currently working on to be a good programmer
-- 🌱 I’m currently learning .net--> C#
-- 🤔 I’m looking for help with codding experience and good opportunities
-- 📫 How to reach me: ugurcan.ku07@gmail.com
-
---!>
-## Bilge Adam Boost Team5
+### Bilge Adam Boost Team5
 
 ----------------------------------------
 
