@@ -1,10 +1,12 @@
 ### Hi there, welcome to my firts repository 👋
 
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## - 🔭 I’m currently working on to be a good programmer
-## - 🌱 I’m currently learning .net--> C#
-## - 🤔 I’m looking for help with codding experience and good opportunities
-## - 📫 How to reach me: ugurcan.ku07@gmail.com
+
+# - 🔭 I’m currently working on to be a good programmer
+# - 🌱 I’m currently learning .net--> C#
+# - 🤔 I’m looking for help with codding experience and good opportunities
+# - 📫 How to reach me: ugurcan.ku07@gmail.com
 
 ### Bilge Adam Boost Team5
 
