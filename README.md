@@ -16,7 +16,7 @@
 ![ugurcan's github stats](https://github-readme-stats.vercel.app/api?username=ukucukali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---------------
-<a  target="_blank"><img height="40" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif">
+<a  target="_blank"><img height="40" width="40" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif">
 I love connecting with different people</b> so if you want to same so say hi, I'll be happy to meet you! :)</a></code>
 
 
